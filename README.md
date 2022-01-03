@@ -7,16 +7,17 @@ shortcuts in the Gnome desktop environment.
 
 ## Things That Don't Work
 
-Copy and paste in terminals is particularly troublesome. I've added
-workarounds for Gnome Terminal, but other terminals like Tilix would
+Copy and paste in terminals is particularly troublesome. We've added
+workarounds for Gnome Terminal and Konsole, but other terminals like Tilix would
 need exclusions added to work properly. Also if you use a tool with
 a built-in terminal like VS Code, it is difficult to detect if you are
 in the editor or in the terminal so copy/paste will currently work
 only in the editor, not in the terminal.
 
+In KDE some of the default shortcuts clash with these. You'll need to disable them in the KDE system settings.
+
+At time of writing in Jan 2022 you need to be in a X11 session for autokey-gtk to work,  it doesn't yet support Wayland.
+
 ## Installation
 
-First install Autokey `sudo apt install autokey-gtk`. Then copy these
-scripts into your personal configuration folder. You'll then need to
-assign the correct shortcut to these actions, for example, `<super>+c`
-for Copy.
+First install Autokey `sudo apt install autokey-gtk` or `sudo dnf install autokey-gtk`. Then point your config to the git repo with `ln -s autokey-macos ~/.config/autokey/data/autokey-macos`.  If your autokey is not using `~/.config` it might be under `~/.local`.
