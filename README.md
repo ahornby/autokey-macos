@@ -3,7 +3,7 @@
 If you regular switch between macOS and Linux you know the pain of your
 muscle memory for common keyboard shortcuts not working. This is a
 collection of scripts for Autokey that emulate macOS style keyboard
-shortcuts in the Gnome desktop environment.
+shortcuts in the Gnome and KDE desktop environment.
 
 ## Things That Don't Work
 
