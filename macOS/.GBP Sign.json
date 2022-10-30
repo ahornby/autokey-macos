@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "Find  in Files",
+    "description": "GBP Sign",
     "store": {},
     "modes": [
         3
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<shift>",
-            "<super>"
+            "<alt>"
         ],
-        "hotKey": "f"
+        "hotKey": "3"
     },
     "filter": {
         "regex": null,

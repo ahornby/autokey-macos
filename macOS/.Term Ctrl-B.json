@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "End of Line",
+    "description": "Term Ctrl-B",
     "store": {},
     "modes": [
         3
@@ -19,9 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>"
+            "<super>"
         ],
-        "hotKey": "e"
+        "hotKey": "b"
     },
     "filter": {
         "regex": null,

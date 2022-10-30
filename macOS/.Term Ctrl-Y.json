@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "Start of Line",
+    "description": "Term Ctrl-Y",
     "store": {},
     "modes": [
         3
@@ -19,9 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>"
+            "<super>"
         ],
-        "hotKey": "a"
+        "hotKey": "y"
     },
     "filter": {
         "regex": null,

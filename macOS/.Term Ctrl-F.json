@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Paste NoFormat",
+    "description": "Term Ctrl-F",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 1,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>",
-            "<shift>"
+            "<super>"
         ],
-        "hotKey": "v"
+        "hotKey": "f"
     },
     "filter": {
         "regex": null,

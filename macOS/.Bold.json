@@ -2,9 +2,7 @@
     "type": "script",
     "description": "Bold",
     "store": {},
-    "modes": [
-        3
-    ],
+    "modes": [],
     "usageCount": 12,
     "prompt": false,
     "omitTrigger": false,

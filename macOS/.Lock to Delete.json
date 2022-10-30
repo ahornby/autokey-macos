@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "Undo",
+    "description": "Lock to Delete",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 0,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -18,10 +18,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<super>"
-        ],
-        "hotKey": "z"
+        "modifiers": [],
+        "hotKey": "<code160>"
     },
     "filter": {
         "regex": null,

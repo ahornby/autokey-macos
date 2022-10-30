@@ -19,8 +19,8 @@
     },
     "hotkey": {
         "modifiers": [
-            "<shift>",
-            "<super>"
+            "<ctrl>",
+            "<shift>"
         ],
         "hotKey": "n"
     },

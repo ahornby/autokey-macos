@@ -19,7 +19,7 @@
     },
     "hotkey": {
         "modifiers": [
-            "<super>"
+            "<ctrl>"
         ],
         "hotKey": "s"
     },

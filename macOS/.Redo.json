@@ -2,9 +2,7 @@
     "type": "script",
     "description": "Redo",
     "store": {},
-    "modes": [
-        3
-    ],
+    "modes": [],
     "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
@@ -19,8 +17,8 @@
     },
     "hotkey": {
         "modifiers": [
-            "<shift>",
-            "<super>"
+            "<ctrl>",
+            "<shift>"
         ],
         "hotKey": "z"
     },
