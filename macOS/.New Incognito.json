@@ -2,9 +2,7 @@
     "type": "script",
     "description": "New Incognito",
     "store": {},
-    "modes": [
-        3
-    ],
+    "modes": [],
     "usageCount": 13,
     "prompt": false,
     "omitTrigger": false,
